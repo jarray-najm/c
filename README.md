@@ -32,9 +32,7 @@ Lorsque le programme est en marche, l'utilisateur charge le fichier TXT contenan
 <p align="center">
   <img src="/0.png">
 </p>
-<p align="center">
-  <img src="/1.png">
-</p>
+
 <p align="center">
   <img src="/2.png">
 </p>
