@@ -53,4 +53,4 @@ Lorsque le programme est en marche, l'utilisateur charge le fichier TXT contenan
 
 Voici le lien de la simulation en video : https://youtu.be/LL51QYcd0Vs
 
-Voici mon email si quelqu'un voudrait me contacter : abouabdelmajidkhalil@gmail.com
+Voici mon email si quelqu'un voudrait me contacter : najmejarray@gmail.com
